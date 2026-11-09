@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+.env
+wp-config.php
+config.php
